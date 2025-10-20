@@ -1,7 +1,12 @@
 
 ![](https://meowrails.com/ghpvc/?username=your-github-username&color=blue)
 
-![image](https://github.com/kararrl/kararrl/assets/160807966/1ab03873-c53e-497e-a63c-7e26e6da66dc)
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ukme4dqz5nxiqqkixrxkh6tobe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=56bee1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
@@ -40,5 +45,4 @@
 
 
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ukme4dqz5nxiqqkixrxkh6tobe)
+![image](https://github.com/kararrl/kararrl/assets/160807966/1ab03873-c53e-497e-a63c-7e26e6da66dc)
